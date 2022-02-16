@@ -1,4 +1,4 @@
-Chào 👋, tớ là buiductai2008
+Chào 👋, tớ là buiductai
 
 Giới thiệu về bản thân:
 
