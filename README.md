@@ -2,7 +2,7 @@ Chào 👋, tớ là buiductai
 
 Giới thiệu về bản thân:
 
-- Tên thật của mình là: Bùi Đức tài
+- Tên thật của mình là: Bùi Đức Tài
 - Mình đang là một học sinh tại trường THCS Hùng Vương
 - Mình hiện đang học tập và sinh sống tại Trảng Bom
 - Mình đang là Developer của project VangBanLaNhat
