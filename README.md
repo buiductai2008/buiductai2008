@@ -9,8 +9,8 @@ Giới thiệu về bản thân:
 
 Liên hệ:
 
-- Facebook: Bùi Đức Tài
-- Youtube Channel: Đức Tài Official
+- Facebook: https://www.facebook.com/BuiDucTai.x.Develop/
+- Youtube Channel: youtube.com/channel/UCQCBGb3fmTrXb7izcQG1KMg
 - Email: justonly.buiductai@gmail.com
 - Github: buiductai2008
 
